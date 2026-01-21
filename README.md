@@ -6,3 +6,5 @@ n# bump
 # bundle range bump 2026-01-21T09:56:55+09:00
 
 # bundle PR change 2026-01-21T09:58:01+09:00
+
+# override bundle test 2026-01-21T10:04:29+09:00
