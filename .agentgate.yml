@@ -6,7 +6,7 @@ watch:
     - ".github/instructions/**"
 policy:
   approvers:
-    HIGH: ["buildwave-dev"]   # 테스트용. 본인 아이디 넣어
+    HIGH: ["LeeSeokBln"]   # 테스트용. 본인 아이디 넣어
     MED: []
     LOW: []
   eval_suites:
