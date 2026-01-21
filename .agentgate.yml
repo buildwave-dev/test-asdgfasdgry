@@ -1,6 +1,6 @@
 policy:
   approvers:
-    HIGH: ["LeeSeokBln"]
+    HIGH: ["ai-security-approvers"]
     MED: []
     LOW: []
   eval_suites:
