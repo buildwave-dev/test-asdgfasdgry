@@ -1,12 +1,6 @@
-watch:
-  globs:
-    - "prompts/**"
-    - "tools/**"
-    - "rag/**"
-    - ".github/instructions/**"
 policy:
   approvers:
-    HIGH: ["LeeSeokBln"]   # 테스트용. 본인 아이디 넣어
+    HIGH: ["LeeSeokBln"]
     MED: []
     LOW: []
   eval_suites:
