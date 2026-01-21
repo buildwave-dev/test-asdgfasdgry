@@ -1,0 +1,18 @@
+watch:
+  globs:
+    - "prompts/**"
+    - "tools/**"
+    - "rag/**"
+    - ".github/instructions/**"
+policy:
+  approvers:
+    HIGH: ["buildwave-dev"]   # 테스트용. 본인 아이디 넣어
+    MED: []
+    LOW: []
+  eval_suites:
+    HIGH: ["smoke", "regression"]
+    MED: ["smoke"]
+    LOW: []
+override:
+  allowed: true
+  ttl_hours: 12
